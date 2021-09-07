@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.greatlearning.demo</groupId>
+	<artifactId>java-apache-httpclient</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>java-apache-httpclient</name>
+	<description>Demo project for use of Apache http client</description>
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.1.1</version>
+		</dependency>
+	</dependencies>
+</project>
